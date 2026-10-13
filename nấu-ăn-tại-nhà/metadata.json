@@ -1,0 +1,6 @@
+{
+  "name": "Nấu ăn tại nhà",
+  "description": "Ứng dụng hướng dẫn nấu ăn ngon tại nhà với nguyên liệu có sẵn, gợi ý món ăn thông minh và trợ lý nấu nướng thực tế.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
